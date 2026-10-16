@@ -115,7 +115,8 @@ A government SPBE knowledge portal that centralizes documentation and addresses 
 
 A centralized agricultural data portal that makes fragmented agricultural statistics, geospatial data, and publications easier to discover and access for research and data-driven decision-making.
 
-- **Full Stack:** Laravel 12, PHP 8.4, React 19, Inertia.js 2, Tailwind CSS 4
+- **Frontend:** Inertia.js, React, TailwindCSS, Ant Design
+- **Backend:** Laravel, PHP
 - 🌐 [Repository](https://github.com/ahmadsubhand/satu-data-pertanian)
 - 🚀 [Live Website](https://sdp.pertanian.go.id/)
 
